@@ -53,7 +53,7 @@ function Home() {
           </a>
         </div>
         <a
-          href="/path-to-your-cv.pdf"
+          href="/resume/jaiminpcv.pdf"
           download
           className="btn btn-custom btn-lg mt-4"
         >
