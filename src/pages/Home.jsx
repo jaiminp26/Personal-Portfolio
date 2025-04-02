@@ -7,7 +7,7 @@ function Home() {
     <div className="container-fluid home-container d-flex align-items-center justify-content-center text-center">
       <div className="content p-5 rounded">
         <img
-          src="../../public/images/jaimin_profile.jpg"
+          src="/images/jaimin_profile.jpg"
           alt="Jaimin Prajapati"
           className="profile-img rounded-circle img-fluid mb-4"
         />
